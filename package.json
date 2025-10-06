@@ -1,0 +1,27 @@
+{
+  "name": "av1",
+  "version": "1.0.0",
+  "description": "Atividade avaliativa individual de Técnicas de Programação.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeca-lima-ti/AV1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeca-lima-ti/AV1/issues"
+  },
+  "homepage": "https://github.com/rebeca-lima-ti/AV1#readme",
+  "devDependencies": {
+    "@types/node": "^24.6.2"
+  },
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10"
+  }
+}
